@@ -1,0 +1,11 @@
+1.  The name of the dataset(s) : dataset.csv
+
+2.  A summary of what is included in the dataset(s) : 
+
+dataset contains two columns date and co count, we are trying to see the amount of carbon affects atmosphere
+
+3.  Summary of what types of data they contain and what queries/analyses
+    you plan on performing on that data.
+
+
+
