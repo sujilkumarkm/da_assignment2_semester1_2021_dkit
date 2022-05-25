@@ -1,11 +1,18 @@
-1.  The name of the dataset(s) : dataset.csv
+1.  The name of the dataset(s) : 
+
+dataset.csv
 
 2.  A summary of what is included in the dataset(s) : 
 
-dataset contains two columns date and co count, we are trying to see the amount of carbon affects atmosphere
+dataset contains two columns co_date and co_count, we are trying to see the amount of carbon affects atmosphere. I have used same dataset which I used for time series analaysis. 
+
+co_date is in date format and co_count is float.
+
 
 3.  Summary of what types of data they contain and what queries/analyses
     you plan on performing on that data.
+
+    My plan is to do Sliding Window and Moving average techniches with this data. I will be using sql for execution of these steps.
 
 
 
