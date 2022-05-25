@@ -1,0 +1,9 @@
+**************************************************************************************************************
+3 changes I would make to the technical or organisational aspects of this project if I'm completing it again.
+**************************************************************************************************************
+
+1. I would use dynamically updated database connection for collecting measurements time to time.
+
+2. In time series I would be including forecast using python or sql.
+
+3. In future i woould recomment to add more columns see  if there any clustering or trends in data using sql.
