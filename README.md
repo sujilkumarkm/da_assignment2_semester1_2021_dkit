@@ -1,5 +1,11 @@
-# da_assignment2_semester1_2021_dkit
+# Data Architecture Assignment 2 - Cross Module Time Series Data
 
+---- Other Additional Info
 
-Below command is used to load data to the assignment repo on pedargrant server
-scp dataset.csv sujilkumarkm@data.peadargrant.ie:/home/sujilkumarkm/assignment2/
+### Used normalised.sql to run the project
+
+\i /home/sujilkumarkm/assignment2/initial_tables.sql;
+
+### data has been loaded to pedargrant server using scp commands
+
+scp sliding_window.sql sujilkumarkm@data.peadargrant.ie:/home/sujilkumarkm/assignment2/
