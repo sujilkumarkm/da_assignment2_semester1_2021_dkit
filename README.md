@@ -19,10 +19,8 @@ server.
 
 ## Lecture
 
-Peadar Grant
-Dundalk Institute of Technology
+Peadar Grant - [Dundalk Institute of Technology](https://www.dkit.ie/)
 
 ### Subject Notes
 
 DATAC9001 Data Architecture
-
