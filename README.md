@@ -17,9 +17,10 @@ files are for PostgreSQL, `py` files are for Python3.8 as on the shared
 server and `.sh` files are for bash on Amazon Linux on the shared
 server.
 
-## Lecture
+## Course Lecturer
 
 Peadar Grant - [Dundalk Institute of Technology](https://www.dkit.ie/)
+[Celebrating 50 Years of DkIT. Athena Swan Bronze Award for Commitment to Gender Equality]
 
 ### Subject Notes
 
