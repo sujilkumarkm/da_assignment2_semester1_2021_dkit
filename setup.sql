@@ -13,7 +13,7 @@ commit;
 
 begin;
 
-\copy environment from '/home/sujilkumarkm/assignment2/dataset.csv' with csv header;
+\copy environment from '/home/sujilkumarkm/assignment2/master_data.csv' with csv header;
 
 commit;
 
@@ -34,7 +34,7 @@ commit;
 /* loading dataset from system */
 
 /* method 1 (going to the folder in my local computer and open powershell and run below command) */
-/* scp dataset.csv sujilkumarkm@data.peadargrant.ie:/home/sujilkumarkm/assignment2/ */
+/* scp master_data.csv sujilkumarkm@data.peadargrant.ie:/home/sujilkumarkm/assignment2/ */
 
 /* OR */
 
