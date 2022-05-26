@@ -1,11 +1,15 @@
 # Data Architecture Assignment 2 - Cross Module Time Series Data
 
----- Other Additional Info
+This CA is designed to showcase and integrate your work in Data
+Architecture during Semester 2. It is a joint project with Time Series
+Analysis. You will be using the same dataset for both.
 
-## using below commands sql files are run
+## Lecture
 
-\i /home/sujilkumarkm/assignment2/initial_tables.sql;
+Peadar Grant
+Dundalk Institute of Technology
 
-## data has been loaded to pedargrant server using scp commands.
+### Subject Notes
 
-scp sliding_window.sql sujilkumarkm@data.peadargrant.ie:/home/sujilkumarkm/assignment2/
+DATAC9001 Data Architecture
+
