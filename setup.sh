@@ -13,8 +13,8 @@ git clone https://github.com/sujilkumarkm/da_assignment2_semester2_2021_dkit.git
 
 
 # please note that both methods are applicable. 
-# 
-# 
+
+
 # intial_tables.sql run to create first table in the db
 # data_load.sql used to load data to table with minor cleaning
 # analysis1.sql run for sliding window
