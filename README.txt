@@ -1,6 +1,16 @@
+**************************************************
+**************************************************
+
+Student Name : Sujil Kumar Koottathampathiyil Mani
+Student Number : D00242726
+
+**************************************************
+**************************************************
+
+
 # Data Architecture Assignment 2 - Cross Module Time Series Data
 
----- Other Additional Info
+---- Other Additional Info ----
 
 ## extra file in the folder
 
