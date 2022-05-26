@@ -2,8 +2,8 @@
 3 changes I would make to the technical or organisational aspects of this project if I'm completing it again.
 **************************************************************************************************************
 
-1. I would use dynamically updated database connection for collecting measurements time to time.
+1. I would use dynamically updated database for collecting measurements time to time. Probably use some web framework like Laravel for facilitate company admins to update the record time to time.
 
-2. In time series I would be including forecast using python or sql.
+2. In Data Archtecture I would be including forecast using python or sql, It would add valuw to my extertise in SQL and python. Further research is required to accomblish this task.
 
-3. In future i woould recomment to add more columns see  if there any clustering or trends in data using sql.
+3. In the future, I would like run evaluation techiques in sql to see the error and accuracy of the model.
