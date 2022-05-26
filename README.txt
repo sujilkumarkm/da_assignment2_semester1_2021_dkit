@@ -12,6 +12,8 @@ Student Number : D00242726
 
 ---- Other Additional Info ----
 
+start the project by running setup.sql first
+
 ## extra file in the folder
 
 This project might contain an extra file named 'README.md' since I used git repository kindly ignore it and just refer to 'README.txt'.
