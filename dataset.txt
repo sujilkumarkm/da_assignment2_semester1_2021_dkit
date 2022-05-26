@@ -4,15 +4,27 @@ master_data.csv
 
 2.  A summary of what is included in the dataset(s) : 
 
-dataset contains two columns co_date and co_count, we are trying to see the amount of carbon affects atmosphere. I have used same dataset which I used for time series analaysis. 
-
-co_date is in date format and co_count is float.
+Global harming has become an important concern recently and research on pollutant is an inevitable thing in this area. For this study, I have chosen a dataset from (https://data.world/data-society/us-air-pollution-data/workspace/project-summary?agentid=data-society&datasetid=us-air-pollution-data) which gives as insight about different pollutants in different states of USA which had been documented by the U.S. EPA.
 
 
 3.  Summary of what types of data they contain and what queries/analyses
     you plan on performing on that data.
 
-    My plan is to do Sliding Window and Moving average techniches with this data. I will be using sql for execution of these steps.
+Raw Data set includes both qualitative and quantitative data. Firstly, it provides details about different states and counties with proper address.  
+Nominal Data: - Address, state, county, city, 
+Continuous Data :- 'NO2 Units', 'NO2 Mean', 'NO2 1st Max Value', 'NO2 1st Max Hour', 'NO2 AQI', 'O3 Units', 'O3 Mean', 'O3 1st Max Value', 'O3 AQI', 'SO2 Units', 'SO2 Mean', 'SO2 Mean', 'SO2 1st Max Value', 'SO2 1st Max Hour', 'SO2 AQI', 'CO Units', 'CO Mean', 'CO 1st Max Value', 'CO 1st Max Hour', 'CO AQI'
+Discrete Data: - State Code, 'County Code', 'Site Num', Date Local
+
+final dataset after cleaning with jupyter contains two columns.
+
+1. co_count
+2. co_date
+
+I am trying to analayse the amount of carbon affects atmosphere each day. I have used same dataset which I used for time series analaysis. 
+
+data types : co_date is in date format and co_count is float.
+
+My plan is to do Sliding Window and Moving average techniches with this data. I will be using sql for execution of these steps.
 
 
 
